@@ -1,0 +1,14 @@
+CopyActionMnemonic=C
+CopyActionName=\u30b3\u30d4\u30fc
+
+CutActionMnemonic=T
+CutActionName=\u30ab\u30c3\u30c8
+
+DeleteActionMnemonic=D
+DeleteActionName=\u524a\u9664
+
+PasteActionMnemonic=P
+PasteActionName=\u8cbc\u308a\u4ed8\u3051
+
+SAActionMnemonic=A
+SAActionName=\u3059\u3079\u3066\u9078\u629e

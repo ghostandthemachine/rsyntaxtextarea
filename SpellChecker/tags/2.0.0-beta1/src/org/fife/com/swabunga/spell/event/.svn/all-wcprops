@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event
+END
+WordFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/WordFinder.java
+END
+SpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/SpellChecker.java
+END
+JavaWordFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/JavaWordFinder.java
+END
+DocumentWordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/DocumentWordTokenizer.java
+END
+WordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/WordTokenizer.java
+END
+WordNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/WordNotFoundException.java
+END
+DefaultWordFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/DefaultWordFinder.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/Word.java
+END
+SpellCheckEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/SpellCheckEvent.java
+END
+BasicSpellCheckEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/BasicSpellCheckEvent.java
+END
+SpellCheckListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/SpellCheckListener.java
+END
+XMLWordFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/XMLWordFinder.java
+END
+AbstractWordFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/AbstractWordFinder.java
+END
+AbstractWordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/AbstractWordTokenizer.java
+END
+StringWordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RSyntaxTextArea/!svn/ver/369/SpellChecker/tags/2.0.0-beta1/src/org/fife/com/swabunga/spell/event/StringWordTokenizer.java
+END

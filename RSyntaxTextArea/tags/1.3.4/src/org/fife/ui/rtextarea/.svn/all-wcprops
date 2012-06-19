@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea
+END
+GutterIconInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/GutterIconInfo.java
+END
+RTextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RTextArea.java
+END
+Macro.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/Macro.java
+END
+IconGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/IconGroup.java
+END
+RecordableTextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RecordableTextAction.java
+END
+RTADefaultInputMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RTADefaultInputMap.java
+END
+LineHighlightManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/LineHighlightManager.java
+END
+Gutter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/Gutter.java
+END
+RTextAreaEditorKit.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RTextAreaEditorKit.java
+END
+ToolTipSupplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/ToolTipSupplier.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/package.html
+END
+ConfigurableCaret.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/ConfigurableCaret.java
+END
+AbstractGutterComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/AbstractGutterComponent.java
+END
+RUndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RUndoManager.java
+END
+RegExReplaceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RegExReplaceInfo.java
+END
+ColorBackgroundPainterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/ColorBackgroundPainterStrategy.java
+END
+ChangeableHighlightPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/ChangeableHighlightPainter.java
+END
+BackgroundPainterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/BackgroundPainterStrategy.java
+END
+ImageBackgroundPainterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/ImageBackgroundPainterStrategy.java
+END
+VolatileImageBackgroundPainterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/VolatileImageBackgroundPainterStrategy.java
+END
+IconRowHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/IconRowHeader.java
+END
+RTextScrollPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RTextScrollPane.java
+END
+RTextAreaBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RTextAreaBase.java
+END
+BufferedImageBackgroundPainterStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/BufferedImageBackgroundPainterStrategy.java
+END
+SearchEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/SearchEngine.java
+END
+LineNumberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/LineNumberList.java
+END
+RTextAreaUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RTextAreaUI.java
+END
+RTATextTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rtextarea/RTATextTransferHandler.java
+END

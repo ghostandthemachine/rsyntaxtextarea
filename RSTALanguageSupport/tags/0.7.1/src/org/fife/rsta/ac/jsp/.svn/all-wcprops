@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/jsp
+END
+JspCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/jsp/JspCompletionProvider.java
+END
+TldFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/jsp/TldFile.java
+END
+TldAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/jsp/TldAttribute.java
+END
+JspLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/jsp/JspLanguageSupport.java
+END
+TldElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/jsp/TldElement.java
+END

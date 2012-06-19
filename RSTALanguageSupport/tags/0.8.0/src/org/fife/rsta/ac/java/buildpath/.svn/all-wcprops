@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath
+END
+ClassEnumerationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/ClassEnumerationReader.java
+END
+DirLibraryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/DirLibraryInfo.java
+END
+LibraryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/LibraryInfo.java
+END
+ClasspathLibraryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/ClasspathLibraryInfo.java
+END
+DirSourceLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/DirSourceLocation.java
+END
+SourceLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/SourceLocation.java
+END
+ClasspathSourceLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/ClasspathSourceLocation.java
+END
+ZipSourceLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/ZipSourceLocation.java
+END
+JarLibraryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/buildpath/JarLibraryInfo.java
+END

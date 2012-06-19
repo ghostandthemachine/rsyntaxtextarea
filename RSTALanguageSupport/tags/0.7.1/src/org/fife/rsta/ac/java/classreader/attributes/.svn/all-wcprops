@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes
+END
+AttributeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes/AttributeInfo.java
+END
+SourceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes/SourceFile.java
+END
+Exceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes/Exceptions.java
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes/Signature.java
+END
+ConstantValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes/ConstantValue.java
+END
+Code.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes/Code.java
+END
+UnsupportedAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/java/classreader/attributes/UnsupportedAttribute.java
+END

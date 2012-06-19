@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac
+END
+LanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/LanguageSupport.java
+END
+AbstractLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/AbstractLanguageSupport.java
+END
+IOUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/IOUtil.java
+END
+OutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/OutputCollector.java
+END
+LanguageSupportFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/LanguageSupportFactory.java
+END

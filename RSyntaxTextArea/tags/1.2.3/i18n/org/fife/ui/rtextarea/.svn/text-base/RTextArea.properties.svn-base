@@ -1,0 +1,14 @@
+CopyActionMnemonic=C
+CopyActionName=Copy
+
+CutActionMnemonic=T
+CutActionName=Cut
+
+DeleteActionMnemonic=D
+DeleteActionName=Delete
+
+PasteActionMnemonic=P
+PasteActionName=Paste
+
+SAActionMnemonic=A
+SAActionName=Select All

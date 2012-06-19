@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RSyntaxTextArea/!svn/ver/542/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java
+END
+ClassCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/484/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/ClassCompletion.java
+END
+JarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RSyntaxTextArea/!svn/ver/484/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JarReader.java
+END
+MemberCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/MemberCompletion.java
+END
+SourceCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/SourceCompletionProvider.java
+END
+JarManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/484/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JarManager.java
+END
+JavaCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavaCellRenderer.java
+END
+MethodData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/MethodData.java
+END
+MethodCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/MethodCompletion.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/542/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/Util.java
+END
+FieldCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/FieldCompletion.java
+END
+FieldData.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/FieldData.java
+END
+DecoratableIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/DecoratableIcon.java
+END
+AbstractJavaSourceCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/AbstractJavaSourceCompletion.java
+END
+IconFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RSyntaxTextArea/!svn/ver/453/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/IconFactory.java
+END
+JavaLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/513/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavaLanguageSupport.java
+END
+JavaParamListCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavaParamListCellRenderer.java
+END
+JavaShorthandCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavaShorthandCompletion.java
+END
+JavaCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/509/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavaCompletionProvider.java
+END
+PackageNameCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/PackageNameCompletion.java
+END
+MethodInfoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/MethodInfoData.java
+END
+JavadocUrlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavadocUrlHandler.java
+END
+FieldInfoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/FieldInfoData.java
+END
+LocalVariableCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/LocalVariableCompletion.java
+END
+SourceParamChoicesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/SourceParamChoicesProvider.java
+END
+JavaSourceCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavaSourceCompletion.java
+END
+DocCommentCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/DocCommentCompletionProvider.java
+END
+JavaParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/541/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/JavaParser.java
+END

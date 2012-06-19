@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/Logger.java
+END
+BuiltinJavascriptTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/BuiltinJavascriptTypes.txt
+END
+IconFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/IconFactory.java
+END
+JavaScriptCompletionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/JavaScriptCompletionResolver.java
+END
+JavaScriptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/JavaScriptParser.java
+END
+SourceCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/SourceCompletionProvider.java
+END
+JavaScriptHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/JavaScriptHelper.java
+END
+JavaScriptLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/JavaScriptLanguageSupport.java
+END
+JavaScriptCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/JavaScriptCompletionProvider.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/Util.java
+END
+JavaScriptCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/JavaScriptCellRenderer.java
+END

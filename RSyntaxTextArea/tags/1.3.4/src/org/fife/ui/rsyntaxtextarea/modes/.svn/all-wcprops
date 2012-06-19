@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes
+END
+CSharpTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CSharpTokenMaker.java
+END
+LuaTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/LuaTokenMaker.java
+END
+JavaTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/JavaTokenMaker.java
+END
+AssemblerX86TokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/AssemblerX86TokenMaker.java
+END
+PlainTextTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PlainTextTokenMaker.flex
+END
+GroovyTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/GroovyTokenMaker.java
+END
+FortranTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/FortranTokenMaker.flex
+END
+MakefileTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/MakefileTokenMaker.flex
+END
+WindowsBatchTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/WindowsBatchTokenMaker.java
+END
+PythonTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PythonTokenMaker.flex
+END
+RubyTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/RubyTokenMaker.flex
+END
+CTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CTokenMaker.flex
+END
+SQLTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/SQLTokenMaker.java
+END
+TclTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/TclTokenMaker.flex
+END
+SASTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/SASTokenMaker.flex
+END
+PHPTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PHPTokenMaker.flex
+END
+CSSTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CSSTokenMaker.flex
+END
+CPlusPlusTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CPlusPlusTokenMaker.flex
+END
+PlainTextTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PlainTextTokenMaker.java
+END
+JSPTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/JSPTokenMaker.flex
+END
+PropertiesFileTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PropertiesFileTokenMaker.flex
+END
+FortranTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/FortranTokenMaker.java
+END
+UnixShellTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/UnixShellTokenMaker.java
+END
+MakefileTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/MakefileTokenMaker.java
+END
+XMLTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/XMLTokenMaker.flex
+END
+PerlTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PerlTokenMaker.flex
+END
+HTMLTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/HTMLTokenMaker.flex
+END
+PythonTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PythonTokenMaker.java
+END
+RubyTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/RubyTokenMaker.java
+END
+CTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CTokenMaker.java
+END
+TclTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/TclTokenMaker.java
+END
+LispTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/LispTokenMaker.flex
+END
+SASTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/SASTokenMaker.java
+END
+PHPTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PHPTokenMaker.java
+END
+CSSTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CSSTokenMaker.java
+END
+CPlusPlusTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CPlusPlusTokenMaker.java
+END
+JSPTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/JSPTokenMaker.java
+END
+PropertiesFileTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PropertiesFileTokenMaker.java
+END
+CSharpTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/CSharpTokenMaker.flex
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/package.html
+END
+LuaTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/LuaTokenMaker.flex
+END
+JavaTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/JavaTokenMaker.flex
+END
+AssemblerX86TokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/AssemblerX86TokenMaker.flex
+END
+XMLTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/XMLTokenMaker.java
+END
+PerlTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/PerlTokenMaker.java
+END
+GroovyTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/GroovyTokenMaker.flex
+END
+HTMLTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/HTMLTokenMaker.java
+END
+JavaScriptTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/JavaScriptTokenMaker.java
+END
+LispTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/LispTokenMaker.java
+END
+SQLTokenMaker.flex
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/110/RSyntaxTextArea/tags/1.3.4/src/org/fife/ui/rsyntaxtextarea/modes/SQLTokenMaker.flex
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 54
+ant-classes
+dist
+javadoc
+rsyntaxtextarea_*_Source.zip
+
+END

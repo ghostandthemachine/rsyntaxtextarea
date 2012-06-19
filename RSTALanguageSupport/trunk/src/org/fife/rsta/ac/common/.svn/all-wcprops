@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/RSyntaxTextArea/!svn/ver/509/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/common
+END
+CodeBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RSyntaxTextArea/!svn/ver/509/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/common/CodeBlock.java
+END
+TokenScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/493/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/common/TokenScanner.java
+END
+VariableDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/493/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/common/VariableDeclaration.java
+END

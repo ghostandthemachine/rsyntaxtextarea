@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine
+END
+EditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/EditDistance.java
+END
+Transformator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/Transformator.java
+END
+GenericSpellDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/GenericSpellDictionary.java
+END
+SpellDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/SpellDictionary.java
+END
+SpellDictionaryASpell.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/SpellDictionaryASpell.java
+END
+SpellDictionaryHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/SpellDictionaryHashMap.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/Configuration.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/Word.java
+END
+PropertyConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/PropertyConfiguration.java
+END
+SpellDictionaryCachedDichoDisk.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/SpellDictionaryCachedDichoDisk.java
+END
+SpellDictionaryDisk.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/SpellDictionaryDisk.java
+END
+DoubleMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/DoubleMeta.java
+END
+configuration.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/configuration.properties
+END
+SpellDictionaryDichoDisk.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/SpellDictionaryDichoDisk.java
+END
+GenericTransformator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/165/SpellChecker/tags/1.4.1/src/com/swabunga/spell/engine/GenericTransformator.java
+END

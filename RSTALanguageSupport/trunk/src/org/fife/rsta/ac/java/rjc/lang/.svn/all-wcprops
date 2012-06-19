@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lang
+END
+Modifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lang/Modifiers.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lang/Type.java
+END
+TypeParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lang/TypeParameter.java
+END
+TypeArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lang/TypeArgument.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lang/Variable.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lang/Annotation.java
+END

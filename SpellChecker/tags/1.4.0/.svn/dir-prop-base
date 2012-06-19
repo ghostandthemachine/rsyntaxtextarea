@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 45
+rsta_spellchecker_*.zip
+ant-classes
+dist
+bin
+
+END

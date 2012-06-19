@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/RSyntaxTextArea/!svn/ver/538/AutoComplete/trunk/src/org/fife/ui/autocomplete
+END
+SortByRelevanceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/SortByRelevanceComparator.java
+END
+CompletionCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/CompletionCellRenderer.java
+END
+EmptyIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/EmptyIcon.java
+END
+LanguageAwareCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/LanguageAwareCompletionProvider.java
+END
+Completion.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/Completion.java
+END
+ParameterizedCompletionChoicesWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/528/AutoComplete/trunk/src/org/fife/ui/autocomplete/ParameterizedCompletionChoicesWindow.java
+END
+AutoCompletePopupWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/499/AutoComplete/trunk/src/org/fife/ui/autocomplete/AutoCompletePopupWindow.java
+END
+CompletionProviderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/CompletionProviderBase.java
+END
+VariableCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/VariableCompletion.java
+END
+LinkRedirector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/522/AutoComplete/trunk/src/org/fife/ui/autocomplete/LinkRedirector.java
+END
+ShorthandCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/ShorthandCompletion.java
+END
+CompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/CompletionProvider.java
+END
+CompletionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/CompletionListModel.java
+END
+osx_sizegrip.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/56/AutoComplete/trunk/src/org/fife/ui/autocomplete/osx_sizegrip.png
+END
+TipUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/RSyntaxTextArea/!svn/ver/510/AutoComplete/trunk/src/org/fife/ui/autocomplete/TipUtil.java
+END
+DelegatingCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/DelegatingCellRenderer.java
+END
+OutlineHighlightPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/OutlineHighlightPainter.java
+END
+AbstractCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/AbstractCompletion.java
+END
+ParameterizedCompletionInsertionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/538/AutoComplete/trunk/src/org/fife/ui/autocomplete/ParameterizedCompletionInsertionInfo.java
+END
+AutoCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/537/AutoComplete/trunk/src/org/fife/ui/autocomplete/AutoCompletion.java
+END
+ExternalURLHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/513/AutoComplete/trunk/src/org/fife/ui/autocomplete/ExternalURLHandler.java
+END
+ParameterizedCompletionDescriptionToolTip.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/538/AutoComplete/trunk/src/org/fife/ui/autocomplete/ParameterizedCompletionDescriptionToolTip.java
+END
+TemplateCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/538/AutoComplete/trunk/src/org/fife/ui/autocomplete/TemplateCompletion.java
+END
+arrow_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/38/AutoComplete/trunk/src/org/fife/ui/autocomplete/arrow_left.png
+END
+CompletionXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/494/AutoComplete/trunk/src/org/fife/ui/autocomplete/CompletionXMLParser.java
+END
+AbstractCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/AbstractCompletionProvider.java
+END
+BasicCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/BasicCompletion.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/RSyntaxTextArea/!svn/ver/510/AutoComplete/trunk/src/org/fife/ui/autocomplete/Util.java
+END
+FunctionCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/538/AutoComplete/trunk/src/org/fife/ui/autocomplete/FunctionCompletion.java
+END
+DescWindowCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/513/AutoComplete/trunk/src/org/fife/ui/autocomplete/DescWindowCallback.java
+END
+CompletionXml.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RSyntaxTextArea/!svn/ver/494/AutoComplete/trunk/src/org/fife/ui/autocomplete/CompletionXml.dtd
+END
+MarkupTagCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/MarkupTagCompletion.java
+END
+ParameterizedCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/538/AutoComplete/trunk/src/org/fife/ui/autocomplete/ParameterizedCompletion.java
+END
+bullet_black.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/RSyntaxTextArea/!svn/ver/195/AutoComplete/trunk/src/org/fife/ui/autocomplete/bullet_black.png
+END
+FastListUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/FastListUI.java
+END
+AutoCompleteDescWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/513/AutoComplete/trunk/src/org/fife/ui/autocomplete/AutoCompleteDescWindow.java
+END
+ParameterChoicesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/ParameterChoicesProvider.java
+END
+DefaultCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/494/AutoComplete/trunk/src/org/fife/ui/autocomplete/DefaultCompletionProvider.java
+END
+arrow_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/RSyntaxTextArea/!svn/ver/38/AutoComplete/trunk/src/org/fife/ui/autocomplete/arrow_right.png
+END
+SizeGrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/425/AutoComplete/trunk/src/org/fife/ui/autocomplete/SizeGrip.java
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/RSyntaxTextArea/!svn/ver/491/TokenMakerMaker/trunk/src/org/fife/tmm
+END
+OpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/RSyntaxTextArea/!svn/ver/491/TokenMakerMaker/trunk/src/org/fife/tmm/OpenAction.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RSyntaxTextArea/!svn/ver/444/TokenMakerMaker/trunk/src/org/fife/tmm/Utils.java
+END
+NumberFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/NumberFormat.java
+END
+WordsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/WordsTable.java
+END
+escapableStrings.state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/escapableStrings.state.txt
+END
+HexLiteralFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/HexLiteralFormat.java
+END
+TmmPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/TmmPanel.java
+END
+doc.switch.case.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/doc.switch.case.txt
+END
+escapableChars.state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/escapableChars.state.txt
+END
+DataTypesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/178/TokenMakerMaker/trunk/src/org/fife/tmm/DataTypesPanel.java
+END
+Prefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RSyntaxTextArea/!svn/ver/197/TokenMakerMaker/trunk/src/org/fife/tmm/Prefs.java
+END
+OutputPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RSyntaxTextArea/!svn/ver/459/TokenMakerMaker/trunk/src/org/fife/tmm/OutputPanel.java
+END
+TokenMakerMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RSyntaxTextArea/!svn/ver/491/TokenMakerMaker/trunk/src/org/fife/tmm/TokenMakerMaker.java
+END
+char.switch.case.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/char.switch.case.txt
+END
+Divider.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/Divider.java
+END
+Template.flex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RSyntaxTextArea/!svn/ver/470/TokenMakerMaker/trunk/src/org/fife/tmm/Template.flex
+END
+FunctionsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/178/TokenMakerMaker/trunk/src/org/fife/tmm/FunctionsPanel.java
+END
+GenerateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/470/TokenMakerMaker/trunk/src/org/fife/tmm/GenerateAction.java
+END
+mlc.state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/mlc.state.txt
+END
+MenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RSyntaxTextArea/!svn/ver/491/TokenMakerMaker/trunk/src/org/fife/tmm/MenuBar.java
+END
+StyleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RSyntaxTextArea/!svn/ver/459/TokenMakerMaker/trunk/src/org/fife/tmm/StyleManager.java
+END
+FloatLiteralFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/FloatLiteralFormat.java
+END
+GeneralPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RSyntaxTextArea/!svn/ver/450/TokenMakerMaker/trunk/src/org/fife/tmm/GeneralPanel.java
+END
+ProcessOutputType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/459/TokenMakerMaker/trunk/src/org/fife/tmm/ProcessOutputType.java
+END
+CommentsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/CommentsPanel.java
+END
+TmmAboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/470/TokenMakerMaker/trunk/src/org/fife/tmm/TmmAboutDialog.java
+END
+AboutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RSyntaxTextArea/!svn/ver/470/TokenMakerMaker/trunk/src/org/fife/tmm/AboutAction.java
+END
+GeneralOptionsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/470/TokenMakerMaker/trunk/src/org/fife/tmm/GeneralOptionsPanel.java
+END
+Keywords2Panel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/442/TokenMakerMaker/trunk/src/org/fife/tmm/Keywords2Panel.java
+END
+TokenMakerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/470/TokenMakerMaker/trunk/src/org/fife/tmm/TokenMakerInfo.java
+END
+string.switch.case.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/string.switch.case.txt
+END
+IntLiteralFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/IntLiteralFormat.java
+END
+TesterFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RSyntaxTextArea/!svn/ver/470/TokenMakerMaker/trunk/src/org/fife/tmm/TesterFrame.java
+END
+doc.state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/doc.state.txt
+END
+LoadFromFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/RSyntaxTextArea/!svn/ver/411/TokenMakerMaker/trunk/src/org/fife/tmm/LoadFromFileDialog.java
+END
+mlc.switch.case.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/mlc.switch.case.txt
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/RSyntaxTextArea/!svn/ver/450/TokenMakerMaker/trunk/src/org/fife/tmm/Main.java
+END
+KeywordsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/RSyntaxTextArea/!svn/ver/442/TokenMakerMaker/trunk/src/org/fife/tmm/KeywordsPanel.java
+END
+WordsTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/WordsTableModel.java
+END
+OptionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/OptionsAction.java
+END
+NumbersPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RSyntaxTextArea/!svn/ver/458/TokenMakerMaker/trunk/src/org/fife/tmm/NumbersPanel.java
+END
+SaveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/RSyntaxTextArea/!svn/ver/451/TokenMakerMaker/trunk/src/org/fife/tmm/SaveAction.java
+END
+UseCOperatorsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/UseCOperatorsAction.java
+END
+eol.state.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/eol.state.txt
+END
+StringLexingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/StringLexingPanel.java
+END
+OperatorsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/177/TokenMakerMaker/trunk/src/org/fife/tmm/OperatorsPanel.java
+END

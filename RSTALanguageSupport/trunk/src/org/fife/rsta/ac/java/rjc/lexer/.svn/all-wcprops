@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/515/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/515/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer/Token.java
+END
+SourceCodeScanner.flex
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer/SourceCodeScanner.flex
+END
+TokenImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/515/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer/TokenImpl.java
+END
+SourceCodeScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer/SourceCodeScanner.java
+END
+TokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer/TokenTypes.java
+END
+Offset.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer/Offset.java
+END
+Scanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/lexer/Scanner.java
+END

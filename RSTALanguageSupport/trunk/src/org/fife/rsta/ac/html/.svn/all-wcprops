@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html
+END
+HtmlLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html/HtmlLanguageSupport.java
+END
+xml_comment.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/184/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html/xml_comment.png
+END
+attribute.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RSyntaxTextArea/!svn/ver/184/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html/attribute.png
+END
+HtmlCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html/HtmlCompletionProvider.java
+END
+HtmlCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html/HtmlCellRenderer.java
+END
+AttributeCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html/AttributeCompletion.java
+END
+tag.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RSyntaxTextArea/!svn/ver/184/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/html/tag.png
+END

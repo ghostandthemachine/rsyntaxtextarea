@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RSyntaxTextArea/!svn/ver/545/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/531/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/Logger.java
+END
+BuiltinJavascriptTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/527/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/BuiltinJavascriptTypes.txt
+END
+IconFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RSyntaxTextArea/!svn/ver/512/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/IconFactory.java
+END
+JavaScriptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/508/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/JavaScriptParser.java
+END
+SourceCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/523/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/SourceCompletionProvider.java
+END
+JavaScriptHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/545/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/JavaScriptHelper.java
+END
+JavaScriptLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/544/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/JavaScriptLanguageSupport.java
+END
+JavaScriptCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/508/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/JavaScriptCompletionProvider.java
+END
+JavaScriptDocUrlhandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/523/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/JavaScriptDocUrlhandler.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/Util.java
+END
+JavaScriptCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/498/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/JavaScriptCellRenderer.java
+END
+PreProcesssingScripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/508/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/PreProcesssingScripts.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api
+END
+JSFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSFunction.java
+END
+JSObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSObject.java
+END
+JSString.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSString.java
+END
+JSNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSNumber.java
+END
+JSError.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSError.java
+END
+JSMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSMath.java
+END
+JSRegExp.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSRegExp.java
+END
+JSDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSDate.java
+END
+JSArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSArray.java
+END
+JSBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ecma/api/JSBoolean.java
+END

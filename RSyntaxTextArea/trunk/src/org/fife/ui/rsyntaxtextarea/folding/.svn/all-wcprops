@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/546/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding
+END
+FoldManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/425/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/FoldManager.java
+END
+LatexFoldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/492/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/LatexFoldParser.java
+END
+CurlyFoldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/492/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/CurlyFoldParser.java
+END
+FoldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/437/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/FoldParser.java
+END
+XmlFoldParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/483/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/XmlFoldParser.java
+END
+Fold.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/546/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/Fold.java
+END
+FoldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/425/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/FoldType.java
+END
+FoldCollapser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/425/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/FoldCollapser.java
+END
+FoldParserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/491/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/FoldParserManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/337/RSyntaxTextArea/trunk/src/org/fife/ui/rsyntaxtextarea/folding/package.html
+END

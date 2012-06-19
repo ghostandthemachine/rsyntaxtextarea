@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 51
+dist
+ant-classes
+javadoc
+autocomplete_*_Source.zip
+
+END

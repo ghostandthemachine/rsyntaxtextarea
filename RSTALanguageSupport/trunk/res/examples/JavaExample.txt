@@ -1,0 +1,36 @@
+public class ExampleCode {
+
+   private String strField;
+   protected int aaa;
+   protected int abb;
+
+   public ExampleCode(int value) {
+      this.value = value;
+   }
+
+   /**
+    * Returns the value of x.
+    This value is
+    * computationally expensive.
+    * <ul>
+    * <li>one
+    * <li>two
+    * <li>three
+    * </ul>
+    * @param one The first param.
+    * @param two The second one.
+    * @unknown What is this?
+    * @param three The third one.
+    * @return The answer.
+    */
+   public String getX() {
+      String str;
+      
+      return "Hello world!";
+   }
+
+   public void setValues(String val1, int val2) {
+      strField = val1;
+   }
+
+}   

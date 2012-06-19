@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HelpDialogContents>
+
+   <PropertiesFile name="help.properties"/>
+   
+   <RootNode name="rootNodeKey" visible="true" page="index.html">
+      <Page name="overviewKey" page="syntax_highlighting_overview.html"/>
+      <Node name="userInterfaceNodeKey" page="ui.html">
+         <Page name="generalTabKey" page="general_tab.html"/>
+      </Node>
+   </RootNode>
+   
+   <IndexItems>
+      <IndexItem name="RSyntaxTextArea"/>
+      <IndexItem name="TokenMaker"/>
+   </IndexItems>
+   
+</HelpDialogContents>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/groovy
+END
+GroovyLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/groovy/GroovyLanguageSupport.java
+END
+GroovyCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/groovy/GroovyCompletionProvider.java
+END
+GroovySourceCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/330/RSTALanguageSupport/tags/0.7.1/src/org/fife/rsta/ac/groovy/GroovySourceCompletionProvider.java
+END

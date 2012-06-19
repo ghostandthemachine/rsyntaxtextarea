@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea
+END
+TextEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TextEditorPane.java
+END
+TokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TokenMaker.java
+END
+SyntaxHighlightingColorScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/SyntaxHighlightingColorScheme.java
+END
+SquiggleUnderlineHighlightPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/SquiggleUnderlineHighlightPainter.java
+END
+CodeTemplateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/CodeTemplateManager.java
+END
+RtfGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RtfGenerator.java
+END
+RTfToText.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RTfToText.java
+END
+VisibleWhitespaceTokenFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/VisibleWhitespaceTokenFactory.java
+END
+RSyntaxUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RSyntaxUtilities.java
+END
+TokenFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TokenFactory.java
+END
+VisibleWhitespaceToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/VisibleWhitespaceToken.java
+END
+TokenMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TokenMap.java
+END
+SyntaxView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/SyntaxView.java
+END
+SyntaxConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/SyntaxConstants.java
+END
+AbstractTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/AbstractTokenMaker.java
+END
+RSyntaxTextAreaEditorKit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RSyntaxTextAreaEditorKit.java
+END
+ParserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/ParserManager.java
+END
+TokenMakerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TokenMakerFactory.java
+END
+RSyntaxTextAreaDefaultInputMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RSyntaxTextAreaDefaultInputMap.java
+END
+DefaultTokenMakerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/DefaultTokenMakerFactory.java
+END
+RSyntaxTextAreaUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RSyntaxTextAreaUI.java
+END
+WrappedSyntaxView.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/WrappedSyntaxView.java
+END
+TokenOrientedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TokenOrientedView.java
+END
+RSyntaxTextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RSyntaxTextArea.java
+END
+RSyntaxDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RSyntaxDocument.java
+END
+FileFileLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/FileFileLocation.java
+END
+FileLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/FileLocation.java
+END
+SyntaxScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/SyntaxScheme.java
+END
+AbstractTokenMakerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/AbstractTokenMakerFactory.java
+END
+XMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/XMLParser.java
+END
+AbstractJFlexTokenMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/AbstractJFlexTokenMaker.java
+END
+DefaultTokenFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/DefaultTokenFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/package.html
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/Token.java
+END
+RtfTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/RtfTransferable.java
+END
+DefaultToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/DefaultToken.java
+END
+TokenMakerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TokenMakerBase.java
+END
+URLFileLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/URLFileLocation.java
+END
+TestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/TestParser.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/Parser.java
+END
+ParserNotice.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/33/RSyntaxTextArea/tags/1.2/src/org/fife/ui/rsyntaxtextarea/ParserNotice.java
+END

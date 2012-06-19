@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast
+END
+TypeDeclarationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/TypeDeclarationFactory.java
+END
+JavaScriptVariableDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/JavaScriptVariableDeclaration.java
+END
+JavaScriptTypesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/JavaScriptTypesFactory.java
+END
+CodeBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/CodeBlock.java
+END
+TypeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/TypeDeclaration.java
+END
+VariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/VariableResolver.java
+END
+JavaScriptType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/JavaScriptType.java
+END
+FunctionDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/FunctionDeclaration.java
+END
+JavaScriptAstParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/ast/JavaScriptAstParser.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/RSyntaxTextArea/!svn/ver/545/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/ast
+END
+JavaScriptVariableDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/517/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/ast/JavaScriptVariableDeclaration.java
+END
+CodeBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/RSyntaxTextArea/!svn/ver/508/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/ast/CodeBlock.java
+END
+VariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/RSyntaxTextArea/!svn/ver/517/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/ast/VariableResolver.java
+END
+FunctionDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/js/ast/FunctionDeclaration.java
+END

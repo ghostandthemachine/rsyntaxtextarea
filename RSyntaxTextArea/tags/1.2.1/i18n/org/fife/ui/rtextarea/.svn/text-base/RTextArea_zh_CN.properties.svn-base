@@ -1,0 +1,17 @@
+#Version History
+#Version     Date     Author     Contact     
+# create     2006-4-14      SunYi     SonYiChi@gmail.com 
+CopyActionMnemonic=C
+CopyActionName=\u590d\u5236
+
+CutActionMnemonic=T
+CutActionName=\u526a\u5207
+
+DeleteActionMnemonic=D
+DeleteActionName=\u5220\u9664
+
+PasteActionMnemonic=P
+PasteActionName=\u7c98\u8d34
+
+SAActionMnemonic=A
+SAActionName=\u5168\u9009

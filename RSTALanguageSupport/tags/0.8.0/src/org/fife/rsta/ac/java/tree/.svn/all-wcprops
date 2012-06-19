@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/tree
+END
+JavaOutlineTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/tree/JavaOutlineTree.java
+END
+JavaTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/tree/JavaTreeNode.java
+END
+LocalVarTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/tree/LocalVarTreeNode.java
+END
+MemberTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/tree/MemberTreeNode.java
+END
+TypeDeclarationTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/tree/TypeDeclarationTreeNode.java
+END
+AstTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/java/tree/AstTreeCellRenderer.java
+END

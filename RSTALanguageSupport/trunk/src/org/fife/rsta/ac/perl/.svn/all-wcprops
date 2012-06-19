@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RSyntaxTextArea/!svn/ver/453/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/perl
+END
+PerlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/perl/PerlParser.java
+END
+PerlCodeCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/perl/PerlCodeCompletionProvider.java
+END
+PerlFunctionCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/perl/PerlFunctionCompletion.java
+END
+PerlLanguageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/453/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/perl/PerlLanguageSupport.java
+END
+PerlCompletionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/perl/PerlCompletionProvider.java
+END
+PerlOutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/perl/PerlOutputCollector.java
+END

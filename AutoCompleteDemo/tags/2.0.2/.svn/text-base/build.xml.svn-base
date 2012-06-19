@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<!-- 
+
+	This is the Ant build script for autocomplete demo jar.
+	Available targets include:
+	
+		1. compile:         Compiles all org.fife classes into ${class-dir}.
+		2. make-jar:        Creates the jar file.
+
+	Author:   Robert Futrell
+	Version:  0.1
+	Date:     22dec2008
+
+-->
+
+
+<project name="AutoCompleteDemo" default="make-jar" basedir=".">
+
+	<description>AutoCompleteDemo build file</description>
+
+
+	<!-- Set global properties for this build. -->
+	<property name="version"          value="2.0.2"/>
+	<property name="source-dir"       location="src"/>
+	<property name="class-dir"        location="ant-classes"/>
+	<property name="dist-dir"         location="dist"/>
+	<property name="doc-dir"          location="javadoc"/>
+	<property name="debug"            value="true"/>
+	<property name="debuglevel"       value="lines,var,source"/>
+	<property name="java-level"       value="1.4"/>
+	<property name="autocomplete-jar" location="../Autocomplete/dist/autocomplete.jar"/>
+	<property name="rsta-jar"         location="../RSyntaxTextArea/dist/rsyntaxtextarea.jar"/>
+
+
+	<!-- Compiles the classes.  -->
+	<target name="compile" description="Compile the source">
+		<delete includeEmptyDirs="true" quiet="true" dir="${class-dir}"/>
+		<mkdir dir="${class-dir}"/>
+		<javac destdir="${class-dir}" srcdir="${source-dir}"
+			classpath="${autocomplete-jar}:${rsta-jar}"
+			deprecation="yes" debug="${debug}" debuglevel="${debuglevel}"
+			source="${java-level}" target="${java-level}"/>
+	</target>
+
+
+	<!-- Creates the jar file. -->
+	<target name="make-jar" depends="compile" description="Create the jar file">
+		<delete includeEmptyDirs="true" quiet="true" dir="${dist-dir}"/>
+		<mkdir dir="${dist-dir}"/>
+		<jar destfile="${dist-dir}/autocomplete_demo.jar">
+			<fileset dir="${class-dir}"/>
+			<fileset dir=".">
+				<include name="c.xml"/>
+				<include name="img/**"/>
+			</fileset>
+			<manifest>
+				<attribute name="Main-Class" value="org.fife.ui.autocomplete.demo.AutoCompleteDemoApp"/>
+				<attribute name="Class-Path" value="rsyntaxtextarea.jar autocomplete.jar"/>
+				<attribute name="Specification-Title" value="AutoComplete"/>
+				<attribute name="Specification-Version" value="${version}"/>
+				<attribute name="Implementation-Title" value="org.fife.ui"/>
+				<attribute name="Implementation-Version" value="${version}"/>
+			</manifest>
+		</jar>
+		<copy todir="${dist-dir}" file="${rsta-jar}"/>
+		<copy todir="${dist-dir}" file="${autocomplete-jar}"/>
+	</target>
+
+
+</project>

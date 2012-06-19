@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<!-- 
+
+	This is the Ant build script for the RSyntaxTextArea demo jar.
+	Available targets include:
+	
+		1. compile:     Compiles the demo classes.
+		2. make-demo:   Creates the demo distribution.
+
+	Author:   Robert Futrell
+	Version:  1.0
+	Date:     15jul2008
+
+-->
+
+
+<project name="RSyntaxTextAreaDemo" default="make-demo" basedir=".">
+
+	<description>RSyntaxTextArea Demo build file</description>
+
+
+	<!-- Set global properties for this build. -->
+	<property name="version"          value="1.0"/>
+	<property name="source-dir"       location="src"/>
+	<property name="class-dir"        location="ant-classes"/>
+	<property name="dist-dir"         location="dist"/>
+	<property name="debug"            value="true"/>
+	<property name="debuglevel"       value="lines,var,source"/>
+	<property name="java-level"       value="1.4"/>
+
+
+	<!-- Compiles the classes.  -->
+	<target name="compile" description="Compile the source">
+		<delete includeEmptyDirs="true" quiet="true" dir="${class-dir}"/>
+		<mkdir dir="${class-dir}"/>
+		<javac srcdir="${source-dir}" destdir="${class-dir}"
+			classpath="../RSyntaxTextArea/dist/rsyntaxtextarea.jar"
+			deprecation="yes" debug="${debug}" debuglevel="${debuglevel}"
+			source="${java-level}" target="${java-level}"/>
+	</target>
+
+
+	<!-- Creates the jar file. -->
+	<target name="make-jar" depends="compile"
+			description="Create the RSyntaxTextArea demo jar">
+		<delete includeEmptyDirs="true" quiet="true" dir="${dist-dir}"/>
+		<mkdir dir="${dist-dir}"/>
+		<jar destfile="${dist-dir}/rsyntaxtextarea_demo.jar">
+			<fileset dir="${class-dir}"/>
+			<manifest>
+				<attribute name="Class-Path" value="rsyntaxtextarea.jar"/>
+			</manifest>
+		</jar>
+	</target>
+
+
+	<!-- Creates the demo distribution. -->
+	<target name="make-demo" depends="make-jar"
+			description="Creates the demo distribution">
+		<copy todir="${dist-dir}">
+			<fileset dir="../RSyntaxTextArea/dist"/>
+		</copy>
+	</target>
+
+
+	<!-- Builds the source zip file. -->
+	<target name="make-source-zip" description="Builds the source zip file">
+		<zip destfile="./rsyntaxtextarea_demo_${version}_Source.zip">
+			<fileset dir=".">
+				<include name="src/**"/>
+				<include name="build.xml"/>
+			</fileset>
+		</zip>
+	</target>
+
+
+</project>

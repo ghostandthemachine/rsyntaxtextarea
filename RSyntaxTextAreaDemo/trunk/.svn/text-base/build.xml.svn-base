@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+
+	This is the Ant build script for the RSyntaxTextArea demo jar.
+
+	This is a self-contained, executable jar that contains both an applet and
+	standalone app version of the demo.  rsyntaxtextarea.jar is not needed as
+	all required RSyntaxTextArea classes are built directly into the demo's
+	jar.
+
+	Available targets include:
+	
+		1. compile:         Compiles the demo classes.
+		2. make-demo:       Creates the demo distribution.
+		3. make-source-zip: Creates a source zip file.
+
+	Author:   Robert Futrell
+	Version:  1.4
+	Date:     01dec2009
+
+-->
+
+
+<project name="RSyntaxTextAreaDemo" default="make-demo" basedir=".">
+
+	<description>RSyntaxTextArea Demo build file</description>
+
+
+	<!-- Set global properties for this build. -->
+	<property name="version"          value="2.0.3"/>
+	<property name="source-dir"       location="src"/>
+	<property name="class-dir"        location="ant-classes"/>
+	<property name="dist-dir"         location="dist"/>
+	<property name="debug"            value="true"/>
+	<property name="debuglevel"       value="lines,var,source"/>
+	<property name="java-level"       value="1.4"/>
+
+
+	<!-- Compiles the classes.  -->
+	<target name="compile" description="Compile the source">
+		<delete includeEmptyDirs="true" quiet="true" dir="${class-dir}"/>
+		<mkdir dir="${class-dir}"/>
+		<javac srcdir="${source-dir}" destdir="${class-dir}"
+			classpath="../RSyntaxTextArea/dist/rsyntaxtextarea.jar"
+			deprecation="yes" debug="${debug}" debuglevel="${debuglevel}"
+			source="${java-level}" target="${java-level}"/>
+	</target>
+
+
+	<!-- Creates the jar file. -->
+	<target name="make-jar" depends="compile"
+			description="Create the RSyntaxTextArea demo jar">
+		<delete includeEmptyDirs="true" quiet="true" dir="${dist-dir}"/>
+		<mkdir dir="${dist-dir}"/>
+		<jar destfile="${dist-dir}/rsyntaxtextarea_demo.jar">
+			<fileset dir="${class-dir}"/>
+			<fileset dir="../RSyntaxTextArea/ant-classes">
+				<exclude name="org/fife/ui/rsyntaxtextarea/TextEditorPane.class"/>
+				<exclude name="org/fife/ui/rsyntaxtextarea/*FileLocation.class"/>
+				<exclude name="org/fife/ui/rsyntaxtextarea/modes/**"/>
+			</fileset>
+			<fileset dir="../RSyntaxTextArea/i18n"/>
+			<fileset file="../RSyntaxTextArea/src/theme.dtd"/>
+			<fileset dir="../RSyntaxTextArea/themes"/>
+			<fileset dir="../RSyntaxTextArea/ant-classes">
+				<include name="org/fife/ui/rsyntaxtextarea/modes/AbstractMarkupTokenMaker.class"/>
+				<include name="org/fife/ui/rsyntaxtextarea/modes/CTokenMaker.class"/>
+				<include name="org/fife/ui/rsyntaxtextarea/modes/JavaTokenMaker.class"/>
+				<include name="org/fife/ui/rsyntaxtextarea/modes/PerlTokenMaker.class"/>
+				<include name="org/fife/ui/rsyntaxtextarea/modes/PlainTextTokenMaker.class"/>
+				<include name="org/fife/ui/rsyntaxtextarea/modes/RubyTokenMaker.class"/>
+				<include name="org/fife/ui/rsyntaxtextarea/modes/SQLTokenMaker.class"/>
+				<include name="org/fife/ui/rsyntaxtextarea/modes/XMLTokenMaker.class"/>
+			</fileset>
+			<fileset dir="examples"/>
+			<fileset dir="img"/>
+			<manifest>
+				<attribute name="Main-Class"
+					value="org.fife.ui.rsyntaxtextarea.demo.RSyntaxTextAreaDemoApp"/>
+			</manifest>
+		</jar>
+	</target>
+
+
+	<!-- Creates the demo distribution. -->
+	<target name="make-demo" depends="make-jar"
+			description="Creates the demo distribution">
+		<copy todir="${dist-dir}">
+			<fileset dir="../RSyntaxTextArea/distfiles"/>
+		</copy>
+	</target>
+
+
+	<!-- Builds the source zip file. -->
+	<target name="make-source-zip" description="Builds the source zip file">
+		<zip destfile="./rsyntaxtextarea_demo_${version}_Source.zip">
+			<fileset dir=".">
+				<include name="src/**"/>
+				<include name="img/**"/>
+				<include name="examples/**"/>
+				<include name="build.xml"/>
+			</fileset>
+		</zip>
+	</target>
+
+
+</project>

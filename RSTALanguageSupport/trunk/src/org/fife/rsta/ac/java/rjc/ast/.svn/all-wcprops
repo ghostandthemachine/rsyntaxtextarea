@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast
+END
+LocalVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/LocalVariable.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/Member.java
+END
+EnumDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/EnumDeclaration.java
+END
+CompilationUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/CompilationUnit.java
+END
+NormalInterfaceDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/NormalInterfaceDeclaration.java
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/Method.java
+END
+ImportDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/ImportDeclaration.java
+END
+FormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/FormalParameter.java
+END
+AbstractTypeDeclarationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/AbstractTypeDeclarationNode.java
+END
+AbstractASTNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/AbstractASTNode.java
+END
+EnumBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/EnumBody.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/Field.java
+END
+NormalClassDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/NormalClassDeclaration.java
+END
+CodeBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/CodeBlock.java
+END
+TypeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/514/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/TypeDeclaration.java
+END
+TypeDeclarationContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/TypeDeclarationContainer.java
+END
+AbstractMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/AbstractMember.java
+END
+Package.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/Package.java
+END
+ASTNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/RSyntaxTextArea/!svn/ver/425/RSTALanguageSupport/trunk/src/org/fife/rsta/ac/java/rjc/ast/ASTNode.java
+END

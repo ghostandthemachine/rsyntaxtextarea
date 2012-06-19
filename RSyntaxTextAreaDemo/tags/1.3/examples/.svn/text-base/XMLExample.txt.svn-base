@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Books>
+
+	<Book title="The Adventures of Tom Sawyer">
+		<Author>Mark Twain</Author>
+		<PublishDate>1876</PublishDate>
+		<ISBN>N/A</ISBN>
+	</Book>
+
+	<!-- Another book -->
+	<Book title="Nineteen Eighty-Four">
+		<Author>George Orwell</Author>
+		<PublishDate>1949</PublishDate>
+		<ISBN>978-0-141-18776-1</ISBN>
+	</Book>
+
+</Books>

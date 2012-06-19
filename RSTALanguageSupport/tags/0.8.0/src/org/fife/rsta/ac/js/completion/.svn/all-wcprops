@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion
+END
+JavaScriptMethodCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JavaScriptMethodCompletion.java
+END
+JavaScriptInScriptFunctionCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JavaScriptInScriptFunctionCompletion.java
+END
+JavascriptBasicCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JavascriptBasicCompletion.java
+END
+JSCompletionUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSCompletionUI.java
+END
+JSCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSCompletion.java
+END
+JSMethodData.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSMethodData.java
+END
+JSFieldCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSFieldCompletion.java
+END
+JSFieldData.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSFieldData.java
+END
+JSBeanCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSBeanCompletion.java
+END
+JSFunctionCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSFunctionCompletion.java
+END
+JSVariableCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JSVariableCompletion.java
+END
+JavaScriptTemplateCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RSyntaxTextArea/!svn/ver/507/RSTALanguageSupport/tags/0.8.0/src/org/fife/rsta/ac/js/completion/JavaScriptTemplateCompletion.java
+END

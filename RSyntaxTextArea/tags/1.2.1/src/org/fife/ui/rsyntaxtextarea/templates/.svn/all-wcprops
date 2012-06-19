@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RSyntaxTextArea/!svn/ver/44/RSyntaxTextArea/tags/1.2.1/src/org/fife/ui/rsyntaxtextarea/templates
+END
+CodeTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RSyntaxTextArea/!svn/ver/44/RSyntaxTextArea/tags/1.2.1/src/org/fife/ui/rsyntaxtextarea/templates/CodeTemplate.java
+END
+AbstractCodeTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RSyntaxTextArea/!svn/ver/44/RSyntaxTextArea/tags/1.2.1/src/org/fife/ui/rsyntaxtextarea/templates/AbstractCodeTemplate.java
+END
+StaticCodeTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RSyntaxTextArea/!svn/ver/44/RSyntaxTextArea/tags/1.2.1/src/org/fife/ui/rsyntaxtextarea/templates/StaticCodeTemplate.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/RSyntaxTextArea/!svn/ver/44/RSyntaxTextArea/tags/1.2.1/src/org/fife/ui/rsyntaxtextarea/templates/package.html
+END

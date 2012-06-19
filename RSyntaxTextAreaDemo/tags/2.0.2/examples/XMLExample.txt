@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<one>
+   <!-- Comment section -->
+   <two attr="some value">
+      <three foo='yes please'><![CDATA[text content]]></three>
+   </two>
+</one>

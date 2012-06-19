@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 51
+ant-classes
+dist
+rsyntaxtextarea_demo_*_Source.zip
+
+END
